@@ -10,21 +10,6 @@ match userInput:
     case _:
         print("Invalid Input")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 weekDay = input("Enter your week day: ")
 
 match weekDay:
